@@ -1,0 +1,10 @@
+iniciar-programa
+    inicia-ejecucion
+        {   //Ejercicio 1 : Escribe un programa de
+        //Karel para que se mueva a la esquina de
+        // 1ªCalle con la 1ªAvenida y se desconecte, asumiendo que empieza en la esquina de la Calle 15 y la Avenida 15 con orientación hacia el Oeste. Guarda el programa con el nombre primerPrograma.txt. Como mundo utiliza el guardado anteriormente con el nombre NuevoMundo.mdo.
+
+¡¡  Inténtalo !!}
+        apagate;
+    termina-ejecucion
+finalizar-programa
